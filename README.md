@@ -1,5 +1,27 @@
 ## 📊 Global Superstore Analysis (Power BI)
 
+## 📑 Table of Contents
+•	[Dashboard Overview](#-dashboard-overview)
+
+•	[Project Overview](#-project-overview)
+
+•	[Objectives](#-objectives)
+
+•	[Tools & Technologies](#-tools--technologies)
+
+•	[Data Preparation & Modeling](#-data-preparation--modeling)
+
+•	[Key Metrics](#-key-metrics)
+
+•	[Key Insights](#-key-insights)
+
+•	[Business Recommendations](#-business-recommendations)
+
+•	[Learning Outcome](#-learning-outcome)
+
+•	[Reference](#-reference)
+
+
 ## 📸 Dashboard Overview
 
 <img width="894" height="505" alt="sales-performance-overview" src="https://github.com/user-attachments/assets/46cb10f8-637d-4523-8e6b-16df3f29a5e7" />
